@@ -1,6 +1,6 @@
 <?php /*ąś*/
 /*
- * CopyRight by Łukasz Kończak l[dot]konczak[at]gmail[dot]com
+ * CopyRight by Łukasz Kończak 
  */
 class db{
 	private $link=false;
